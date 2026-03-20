@@ -135,7 +135,7 @@ This project was created to practice:
 * Sensor integration (ultrasonic)
 * Actuator control (buzzer)
 * Real-time decision making
-* Assistive technology concepts
+* Assistive technology concept
 
 ---
 
